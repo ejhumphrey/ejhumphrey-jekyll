@@ -1,3 +1,4 @@
+# About
 
 I'm a Machine Learning Engineering Manager (aka [Chapter Lead](https://www.quora.com/Whats-the-actual-role-of-chapter-leader-in-Spotify)) at [Spotify](http://spotify.com), where I help teams research and develop machine learning algorithms to improve the experience of ad-supported listeners around the world. Previously, I've also been a Senior Machine Learning Researcher at Spotify; a Research Scientist and Team Lead at MuseAmi (RIP); and a consulting engineer for various music / audio technology companies, working on equally varied challenges.
 

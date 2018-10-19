@@ -2,10 +2,10 @@ theme: jekyll-theme-minimal
 logo: /assets/img/ejh-face.jpg
 menu:
   About: /pages/about
-  # Publications: /pages/publications
-  # Software: /software
-  # Music: /music
-  # Talks: /talks
+  Publications: /pages/publications
+  Software: /pages/software
+  Music: /pages/music
+  Talks: /pages/talks
 
 social:
   GitHub: http://github.com/ejhumphrey
