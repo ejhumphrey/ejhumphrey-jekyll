@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+logo: /assets/img/ejh-face.jpg
+menu:
+  About: /pages/about
+  # Publications: /pages/publications
+  # Software: /software
+  # Music: /music
+  # Talks: /talks
+
+social:
+  GitHub: http://github.com/ejhumphrey
+  LinkedIn: https://www.linkedin.com/in/ejhumphrey/
+  Twitter: http://twitter.com/ejhumphrey
+  Google Scholar: https://scholar.google.com/citations?user=kzS_Xd4AAAAJ
+
+title: Eric J. Humphrey
