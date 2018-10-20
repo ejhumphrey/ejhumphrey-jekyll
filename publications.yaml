@@ -1,0 +1,200 @@
+conferences:
+  humphrey2018open:
+    title: "OpenMIC-2018: an open dataset for multiple instrument recognition"
+    authors: "E. J. Humphrey, S. Durand, B. McFee"
+    booktitle: ISMIR
+    year: 2018
+    url: /assets/pdf/humphrey2018open.pdf
+  jansson2017singing:
+    title: "Singing voice separation with deep U-Net convolutional networks"
+    authors: "A. Jansson, E. J. Humphrey, N Montecchio, R Bittner, A Kumar, T Weyde"
+    booktitle: ISMIR
+    year: 2017
+    url: /assets/pdf/jansson2017singing.pdf
+  humphrey2017mining:
+    title: "Mining labeled data from web-scale collections for vocal activity detection in music"
+    authors: "E. J. Humphrey, N Montecchio, R Bittner, A Jansson, T Jehan"
+    booktitle: ISMIR
+    year: 2017
+    url: /assets/pdf/humphrey2017mining.pdf
+  bittner2017automatic:
+    title: "Automatic playlist sequencing and transitions"
+    authors: "R. M. Bittner, M. Gu, G. Hernandez, E. J.Humphrey, T. Jehan, P. H. McCurry, N. Montecchio"
+    booktitle: ISMIR
+    year: 2017
+    url: /assets/pdf/bittner2017automatic.pdf
+  mcfee2016plan:
+    title: "A Plan for Sustainable MIR Evaluation."
+    authors: "B. McFee, E. J. Humphrey, J. Urbano"
+    booktitle: ISMIR
+    year: 2016
+    url: /assets/pdf/mcfee2016plan.pdf
+  humphrey2015four:
+    title: "Four Timely Insights on Automatic Chord Estimation."
+    authors: "E. J. Humphrey, J. P. Bello"
+    booktitle: ISMIR
+    year: 2015
+    url: /assets/pdf/humphrey2015four.pdf
+  mcfee2015software:
+    title: "A Software Framework for Musical Data Augmentation"
+    authors: "B. McFee, E. J. Humphrey, J. P. Bello"
+    booktitle: ISMIR
+    year: 2015
+    url: /assets/pdf/mcfee2015software.pdf
+  raffel2014mireval:
+    title: "mir_eval: A Transparent Implementation of Common MIR Metrics"
+    authors: "C Raffel, B McFee, EJ Humphrey, J Salamon, O Nieto, D Liang, DPW Ellis"
+    booktitle: ISMIR
+    year: 2014
+    url: "/assets/pdf/raffel2014mireval.pdf"
+  humphrey2014music:
+    title: "From music audio to chord tablature: Teaching deep convolutional networks to play guitar"
+    authors: "E. J. Humphrey, J. P. Bello"
+    booktitle: ICASSP
+    year: 2014
+    url: "/assets/pdf/humphrey2014music.pdf"
+  humphrey2013data:
+    title: Data Driven and Discriminative Projections for Large-Scale Cover Song Identification.
+    authors: E. J. Humphrey, O. Nieto, J. P. Bello
+    booktitle: ISMIR
+    year: 2013
+    url: "/assets/pdf/humphrey2013data.pdf"
+  humphrey2012rethinking:
+    title: Rethinking automatic chord recognition with convolutional neural networks
+    authors: E. J. Humphrey, J. P. Bello
+    booktitle: ICMLA
+    year: 2012
+    url: "/assets/pdf/humphrey2012rethinking.pdf"
+  humphrey2012learning:
+    title: Learning a robust tonnetz-space transform for automatic chord recognition
+    authors: E. J. Humphrey, T. Cho, J. P. Bello
+    booktitle: ICASSP
+    year: 2012
+    url: "/assets/pdf/humphrey2012learning.pdf"
+  humphrey2012moving:
+    title: "Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics"
+    authors: E. J. Humphrey, J. P. Bello, Y. LeCun
+    booktitle: ISMIR
+    year: 2012
+    url: "/assets/pdf/humphrey2012moving.pdf"
+  nieto2012compressing:
+    title: Compressing Music Recordings into Audio Summaries
+    authors: O. Nieto, E. J. Humphrey, J. P. Bello
+    booktitle: ISMIR
+    year: 2012
+    url: "/assets/pdf/nieto2012compressing.pdf"
+  humphrey2011nonlinear:
+    title: Non-linear semantic embedding for organizing large instrument sample libraries
+    authors: E. J. Humphrey, A. P. Glennon, J. P. Bello
+    booktitle: ICMLA
+    year: 2011
+    url: "/assets/pdf/humphrey2011nonlinear.pdf"
+  humphrey2010automatic:
+    title: Automatic Characterization of Digital Music for Rhythmic Auditory Stimulation
+    authors: E. J. Humphrey
+    booktitle: ISMIR
+    year: 2010
+    url: "/assets/pdf/humphrey2010automatic.pdf"
+  mattek2010revisiting:
+    title: Revisiting Cagean Composition Methodology with a Modern Computational Implementation
+    authors: A. Mattek, M. Freeman, E. J. Humphrey
+    booktitle: NIME
+    year: 2010
+    url: "/assets/pdf/mattek2010revisiting.pdf"
+  humphrey2009navi:
+    title: "The Navi activity monitor: On using kinematic data to humanize computer music"
+    authors: E. J. Humphrey, C. Leider
+    booktitle: NIME
+    year: 2009
+    url: "/assets/pdf/humphrey2009navi.pdf"
+
+journals:
+  humphrey2019introduction:
+    title: An Introduction to Singing Voice analysis
+    authors: E. J. Humphrey, S. Reddy, P. Seetharaman, A. Kumar, R. M. Bittner, A. Demetriou, S. Gulati, A. Jansson, T. Jehan, B. Lehner, A. Kruspe, L. Yang
+    booktitle: IEEE SPM
+    issue: Special Issue on Music Signal Processing
+    year: 2019
+    url: ""
+  esparza2015genre:
+    title: "From genre classification to rhythm similarity: Computational and musicological insights"
+    authors: "T. M. Esparza, J. P. Bello, E. J. Humphrey"
+    booktitle: Journal of New Music Research
+    issue: 44 (1)
+    pages: 39-57
+    year: 2015
+    url: "https://doi.org/10.1080/09298215.2014.929706"
+  humphrey2013directions:
+    title: "Feature Learning and Deep Architectures: New Directions for Music Informatics"
+    authors: E. J. Humphrey, J. P. Bello, Y. LeCun
+    booktitle: Journal of Intelligent Information Systems
+    issue: 41 (3)
+    pages: 461-481
+    year: 2013
+    url: "http://yann.lecun.org/exdb/publis/pdf/humphrey-jiis-13.pdf"
+
+patents:
+  humphrey2014detection:
+    title: Detection system and method for mobile device application
+    authors: E. J. Humphrey, S. K. Rits, J. Boley, O. Masciarotte
+    number: 8,713,593 21
+    year: 2014
+    url: "https://patents.google.com/patent/US8713593B2/en"
+  glennon2014apparatus:
+    title: Apparatus and method for audio fingerprinting
+    authors: A. Glennon, E. J. Humphrey, B. Slavin, S. Rosenberg
+    number: US Patent App. 13/941,727
+    year: 2014
+    url: "https://patents.google.com/patent/US20140019390A1/en"
+  humphrey2012automatic:
+    title: Automatic analysis and manipulation of digital musical content for synchronization with motion
+    authors: E. J. Humphrey
+    number: US Patent App. 12/830,821
+    year: 2012
+    url: "https://patents.google.com/patent/US20120006183A1/en"
+
+theses:
+  humphrey2015phd:
+    title: An exploration of deep learning in content-based music informatics
+    authors: E. J. Humphrey
+    institution: New York University
+    location: New York City, NY
+    year: 2015
+  humphrey2009msee:
+    title: A computational system for the automatic creation of music playlists for rhythmic auditory stimulation in recreational running
+    authors: E. J. Humphrey
+    location: Coral Gables, FL
+    institution: University of Miami
+    year: 2009
+
+miscellaneous:
+  kumar2017learning:
+    title: Learning a Large-Scale Vocal Similarity Embedding for Music
+    authors: A. Kumar, R. M. Bittner, N. Montecchio, A. Jansson, M. Panteli, E. J. Humphrey, T. Jehan
+    booktitle: Workshop on Machine Learning for Music Discovery
+    year: 2017
+  humphrey2016deep:
+    title: Deep Manifold Learning for Music Audio
+    authors: E. J. Humphrey
+    booktitle: Workshop on Machine Learning for Music Discovery
+    year: 2017
+  bittner2016pysox:
+    title: "Pysox: Leveraging the audio signal processing power of sox in python"
+    authors: R. M. Bittner, E. J. Humphrey, J. P. Bello
+    year: 2016
+  mcfee2015jams:
+    title: "Pump up the JAMS: V0. 2 and beyond"
+    authors: B. McFee, E. J. Humphrey, O. Nieto, J. Salamon, R. Bittner, J. Forsyth, J. P. Bello
+    year: 2015
+  humphrey2013review:
+    title: A brief review of creative MIR
+    authors: E. J. Humphrey, D. Turnbull, T. Collins
+    year: 2013
+  anglade2012demos:
+    title: Demos and late-breaking session of the 13th ISMIR Conference
+    authors: A. Anglade, E. J. Humphrey, E. Schmidt, S. Stober, M. Sordo
+    booktitle: Computer Music Journal
+    issue: 37 (2)
+    pages: 91-93
+    year: 2013
+
