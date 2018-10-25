@@ -114,6 +114,7 @@ journals:
     authors: E. J. Humphrey, S. Reddy, P. Seetharaman, A. Kumar, R. M. Bittner, A. Demetriou, S. Gulati, A. Jansson, T. Jehan, B. Lehner, A. Kruspe, L. Yang
     booktitle: IEEE SPM
     issue: Special Issue on Music Signal Processing
+    pages: ""
     year: 2019
     url: ""
   esparza2015genre:
@@ -160,12 +161,14 @@ theses:
     institution: New York University
     location: New York City, NY
     year: 2015
+    url: ""
   humphrey2009msee:
     title: A computational system for the automatic creation of music playlists for rhythmic auditory stimulation in recreational running
     authors: E. J. Humphrey
     location: Coral Gables, FL
     institution: University of Miami
     year: 2009
+    url: ""
 
 miscellaneous:
   kumar2017learning:
@@ -173,23 +176,31 @@ miscellaneous:
     authors: A. Kumar, R. M. Bittner, N. Montecchio, A. Jansson, M. Panteli, E. J. Humphrey, T. Jehan
     booktitle: Workshop on Machine Learning for Music Discovery
     year: 2017
+    url: ""
   humphrey2016deep:
     title: Deep Manifold Learning for Music Audio
     authors: E. J. Humphrey
     booktitle: Workshop on Machine Learning for Music Discovery
     year: 2017
+    url: ""
   bittner2016pysox:
     title: "Pysox: Leveraging the audio signal processing power of sox in python"
     authors: R. M. Bittner, E. J. Humphrey, J. P. Bello
+    booktitle: ""
     year: 2016
+    url: ""
   mcfee2015jams:
     title: "Pump up the JAMS: V0. 2 and beyond"
     authors: B. McFee, E. J. Humphrey, O. Nieto, J. Salamon, R. Bittner, J. Forsyth, J. P. Bello
+    booktitle: ""
     year: 2015
+    url: ""
   humphrey2013review:
     title: A brief review of creative MIR
     authors: E. J. Humphrey, D. Turnbull, T. Collins
+    booktitle: ""
     year: 2013
+    url: ""
   anglade2012demos:
     title: Demos and late-breaking session of the 13th ISMIR Conference
     authors: A. Anglade, E. J. Humphrey, E. Schmidt, S. Stober, M. Sordo
@@ -197,4 +208,4 @@ miscellaneous:
     issue: 37 (2)
     pages: 91-93
     year: 2013
-
+    url: ""
