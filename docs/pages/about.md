@@ -12,5 +12,3 @@ In addition to the (perhaps obvious) topics of computational intelligence, music
 And, in what little time remains, I'm a songwriter and multi-instrumentalist (guitar, vocals, drums, saxophone, ...), a recreational runner, and an increasingly serious woodworker.
 
 e.j.h.
-
-_humphrey.eric at gmail_
